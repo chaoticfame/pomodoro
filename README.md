@@ -1,1 +1,3 @@
-A simple pomodoro timer project using html and css with a little bit of javascript
+# 🍅 Simple Pomodoro Timer
+
+A clean, minimalist, and easy-to-use Pomodoro Timer built with vanilla HTML, CSS, and JavaScript. This project helps you manage your time and stay focused using the Pomodoro Technique.
